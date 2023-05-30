@@ -1,0 +1,22 @@
+[
+  {
+    "ProcessName": "p1",
+    "ArivalTime": "0",
+    "BurstTime": "8"
+  },
+  {
+    "ProcessName": "p2",
+    "ArivalTime": "3",
+    "BurstTime": "3"
+  },
+  {
+    "ProcessName": "p3",
+    "ArivalTime": "7",
+    "BurstTime": "6"
+  },
+  {
+    "ProcessName": "p4",
+    "ArivalTime": "11",
+    "BurstTime": "2"
+  }
+]

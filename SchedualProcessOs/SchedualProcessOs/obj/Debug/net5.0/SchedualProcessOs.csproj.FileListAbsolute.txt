@@ -1,0 +1,36 @@
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.exe
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.deps.json
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.runtimeconfig.json
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.runtimeconfig.dev.json
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.dll
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\ref\SchedualProcessOs.dll
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.pdb
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.csproj.AssemblyReference.cache
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.AssemblyInfoInputs.cache
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.AssemblyInfo.cs
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.csproj.CoreCompileInputs.cache
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.dll
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\ref\SchedualProcessOs.dll
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.pdb
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.genruntimeconfig.cache
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Current Courses\C#\Samples\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.csproj.CopyComplete
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.exe
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.deps.json
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.runtimeconfig.json
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.runtimeconfig.dev.json
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.dll
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\SchedualProcessOs.pdb
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.csproj.AssemblyReference.cache
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.AssemblyInfoInputs.cache
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.AssemblyInfo.cs
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.csproj.CoreCompileInputs.cache
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.csproj.CopyComplete
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.dll
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\refint\SchedualProcessOs.dll
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.pdb
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\SchedualProcessOs.genruntimeconfig.cache
+D:\Ali Sha\C# basics and OOP\Samples C#\SchedualProcessOs\SchedualProcessOs\obj\Debug\net5.0\ref\SchedualProcessOs.dll
